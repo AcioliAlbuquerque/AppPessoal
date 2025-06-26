@@ -1,0 +1,8 @@
+git add .
+git commit -m "Inicialização do projeto Spring Boot"
+git remote add origin https://github.com/AcioliAlbuquerque/AppPessoal.git
+git push -u origin main
+
+git add API_DOCUMENTATION.md.docx
+git commit -m "Adicionada documentação inicial da API"
+git push origin main
