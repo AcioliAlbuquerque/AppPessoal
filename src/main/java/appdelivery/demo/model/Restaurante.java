@@ -1,4 +1,4 @@
-package appdelivery.demo;
+package appdelivery.demo.model;
 
 public class Restaurante {
     private Long id;

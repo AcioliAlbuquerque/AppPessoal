@@ -1,4 +1,4 @@
-package appdelivery.demo;
+package appdelivery.demo.model;
 
 public class ErrorResponse {
     private String error;
